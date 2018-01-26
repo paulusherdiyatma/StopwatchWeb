@@ -7,7 +7,7 @@ How to run:
 
 Result:
 
-<video src="/src/assets/video/example.webm" width="618" height="347" controls preload>
+<video src="./src/assets/video/example.mp4" width="618" height="347" controls preload>
 </video>
 
 
