@@ -7,7 +7,6 @@ How to run:
 
 Result:
 
-<video src="./src/assets/video/example.mp4" width="618" height="347" controls preload>
-</video>
+![Output sample](https://github.com/paulusherdiyatma/StopwatchWeb/raw/master/src/assets/video/example.gif)
 
 
