@@ -1,0 +1,8 @@
+<main>
+    <h1>Stopwatch</h1>
+    <h1>{{('0' + timeHour).slice(-2)}} : {{('0' + timeMinute).slice(-2)}} : {{('0' + timeSecond).slice(-2)}} : {{('0' + timeMilisecond).slice(-2)}}</h1>
+
+    <button (click)="start()" [disabled]="isCounting">start</button>
+    <button (click)="stop()" [disabled]="!isCounting">stop</button>
+    <button (click)="reset()">reset</button>
+</main>
